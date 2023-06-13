@@ -1,0 +1,87 @@
+.glogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+/* SEARCH BAR STARTS*/
+
+.mfield {
+    display: block;
+    background-color: rgb(236, 236, 236);
+    border: none;
+    margin: auto 90px;
+    padding: 60px auto;
+}
+
+.sform {
+    width: 320px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -15px;
+}
+
+.stext {
+    text-align: center;
+    margin-top: auto;
+}
+
+.mbut {
+    padding-left: 40px;
+}
+
+/* SEARCH BAR ENDS*/
+
+/* LINK BOXES STARTS */
+.maindiv {
+
+    width: 2000px;
+    margin: 0 90px;
+    padding-top: 2px;
+
+}
+
+.div1 {
+    text-align: center;
+    background-color: rgb(126, 229, 218);
+    width: 600px;
+    height: 60px;
+    float: left;
+    padding: 10px 2px;
+
+}
+
+.div2 {
+    text-align: center;
+    font-size: small;
+    background-color: rgb(126, 229, 218);
+    width: 350px;
+    height: 60px;
+    float: left;
+    margin-left: 2px;
+    padding: 10px 1px;
+    
+}
+
+.div3 {
+    text-align: center;
+    font-size: small;
+    background-color: rgb(126, 229, 218);
+    width: 724px;
+    height: 80px;
+    float: left;
+    margin-left: 2px;
+   
+    
+}
+/* LINK BOXES ENDS */
+
+.clear {
+    clear: both;
+}
+
+.footp {
+    font-size: small;
+    text-align: center;
+}
